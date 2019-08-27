@@ -1,0 +1,8 @@
+{
+  "LoggingVerbose": "true",
+  "LoggingPath": "c:\\temp\\",
+  "EnvironmentType": "dev",
+  "APPConfigPath": "C:\\Development\\Java\\Logger\\config\\",
+  "APPConfigFileName": "clientConfig.json",
+  "OSVersion": "xx.xx.xx"
+}
